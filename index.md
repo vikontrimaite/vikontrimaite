@@ -28,7 +28,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 * Jquery
 * Subversion
 
-###### **Also, I am interestid in:**
+#### **Also, I am interestid in:**
 * Photography, I have my personal [blog](https://pasivaiksciojimai.lt/)
 * Caring for my home plans, gardening
 * Dancing 
@@ -40,4 +40,4 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 * Reading
 
 ![It's me in Norway]
-(https://drive.google.com/file/d/1Mp7VHXWYCGZ4rye4pfC06llD23P4d_MV/view?usp=sharing)
+(https://imgur.com/p5hFTRk)
