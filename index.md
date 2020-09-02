@@ -30,7 +30,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 
 ![It's me in Norway](https://github.com/vikontrimaite/vikontrimaite/blob/gh-pages/IMG_20191230_105907.jpg?raw=true)
 
-#### **Also, I am interestid in:**
+#### **Also, I am interested in:**
 * Photography, I have my personal [blog](https://pasivaiksciojimai.lt/)
 * Caring for my home plans, gardening
 * Dancing 
