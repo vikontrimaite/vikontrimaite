@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# **About me:**
+Since childhood I were helping people "with computers": helped friends to clean their computers and make more space there, fixing little issues, also, installing The Sims 2 game for others and making money this way.
 
-You can use the [editor on GitHub](https://github.com/vikontrimaite/vikontrimaite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In the last five years I was working with people, mostly with children, and I have finished my Bachelor's degree in Social Education. Nevertheless, I am seeking for new career opportunities and internships in IT industry, especially into Software testing (QA). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I would love to work in IT industry because I see it as a very perspective and interesting sphere. I have skills that are needed: responsibility, attention to details, good time management and organization skills, communication skills, logical thinking, constant personal growth.
 
-### Markdown
+Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## **This month I am learning:**
+* Theory of Software testing (QA) {[Guru99](https://www.guru99.com/software-testing.html)}
+* Responsive Web Design {[KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css), [FreeCodeCamp](https://www.freecodecamp.org/learn/)}
+* Software Development Processes and Methodologies {[Coursera](https://www.coursera.org/learn/software-processes/)}
+* Deep dive into JavaScript, ES6 {[FreeCodeCamp](https://www.freecodecamp.org/learn/), [KhanAcademy](https://www.khanacademy.org/computing/computer-programming/programming)}
+* Git, version control systems {[GitHub](https://github.com/)}
+* DOM {[W3schools](https://www.w3schools.com/js/js_htmldom.asp)}
 
-```markdown
-Syntax highlighted code block
+## **Let me tell you about:**
+* HTML, CSS, JavaSript basics
+* Theory of Software testing (QA): testing fundamentals, types, techniques, documentation, test management, SDLC, STLC, Agile Methodology
 
-# Header 1
-## Header 2
-### Header 3
+## **What I am planning to learn:**
+* JAVA
+* Automatic testing, Selenium
+* HTTP
+* Object oriented programming vs functional programming. Programming languages examples. 
+* Databases, RDMS, SQL 
+* Jquery
+* Subversion
 
-- Bulleted
-- List
+###### **Also, I am interestid in:**
+* Photography, I have my personal [blog](https://pasivaiksciojimai.lt/)
+* Caring for my home plans, gardening
+* Dancing 
+* Cycling
+* Things made of water: waterfalls, rivers, oceans, seas, glaciers
+* Hiking in forests
+* Exploring
+* Cats
+* Reading
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vikontrimaite/vikontrimaite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![It's me in Norway]
+(https://drive.google.com/file/d/1Mp7VHXWYCGZ4rye4pfC06llD23P4d_MV/view?usp=sharing)
