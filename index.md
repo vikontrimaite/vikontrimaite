@@ -38,5 +38,3 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 * Exploring
 * Cats
 * Reading
-
-![It's me in Norway](https://imgur.com/p5hFTRk)
