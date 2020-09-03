@@ -11,7 +11,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 * Theory of Software testing (QA) {[Guru99](https://www.guru99.com/software-testing.html)}
 * Responsive Web Design {[KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css), [FreeCodeCamp](https://www.freecodecamp.org/learn/)}
 * Software Development Processes and Methodologies {[Coursera](https://www.coursera.org/learn/software-processes/)}
-* Deep dive into JavaScript, ES6 {[FreeCodeCamp](https://www.freecodecamp.org/learn/), [KhanAcademy](https://www.khanacademy.org/computing/computer-programming/programming)}
+* Deep dive into JavaScript, ES6 {[Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), [FreeCodeCamp](https://www.freecodecamp.org/learn/), [KhanAcademy](https://www.khanacademy.org/computing/computer-programming/programming)}
 * Git, version control systems {[GitHub](https://github.com/)}
 * DOM {[W3schools](https://www.w3schools.com/js/js_htmldom.asp)}
 
