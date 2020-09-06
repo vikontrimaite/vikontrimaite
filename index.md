@@ -8,15 +8,6 @@ I would love to work in IT industry because I see it as a very perspective and i
 Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 
 ## **This month I'm learning:**
-* Theory of Software testing (QA): testing fundamentals, types, techniques, documentation, test management, STLC, Agile Methodology ([Guru99](https://www.guru99.com/software-testing.html))
-* Responsive Web Design ([KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css), [FreeCodeCamp](https://www.freecodecamp.org/learn/))
-* JavaScript, ES6 ([Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), [FreeCodeCamp](https://www.freecodecamp.org/learn/)) , [KhanAcademy](https://www.khanacademy.org/computing/computer-programming/programming)}
-* Software Development Processes and Methodologies {[Coursera](https://www.coursera.org/learn/software-processes/)}
-* Databases, RDMS, SQL ([Codecademy](https://www.codecademy.com/learn/learn-sql))
-* DOM ([W3schools](https://www.w3schools.com/js/js_htmldom.asp))
-* Git, version control systems ([GitHub](https://github.com/))
-* Bootstrap ([Codecademy](https://www.codecademy.com/learn/learn-bootstrap))
-
 * Web pages: 
 HTML, CSS ([KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css), [FreeCodeCamp](https://www.freecodecamp.org/learn/))
 Bootstrap ([Codecademy](https://www.codecademy.com/learn/learn-bootstrap))
