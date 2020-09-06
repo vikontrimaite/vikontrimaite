@@ -7,25 +7,39 @@ I would love to work in IT industry because I see it as a very perspective and i
 
 Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 
-## **This month I am learning:**
-* Theory of Software testing (QA) {[Guru99](https://www.guru99.com/software-testing.html)}
-* Responsive Web Design {[KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css), [FreeCodeCamp](https://www.freecodecamp.org/learn/)}
+## **This month I'm learning:**
+* Theory of Software testing (QA): testing fundamentals, types, techniques, documentation, test management, STLC, Agile Methodology ([Guru99](https://www.guru99.com/software-testing.html))
+* Responsive Web Design ([KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css), [FreeCodeCamp](https://www.freecodecamp.org/learn/))
+* JavaScript, ES6 ([Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), [FreeCodeCamp](https://www.freecodecamp.org/learn/)) , [KhanAcademy](https://www.khanacademy.org/computing/computer-programming/programming)}
 * Software Development Processes and Methodologies {[Coursera](https://www.coursera.org/learn/software-processes/)}
-* Deep dive into JavaScript, ES6 {[Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), [FreeCodeCamp](https://www.freecodecamp.org/learn/), [KhanAcademy](https://www.khanacademy.org/computing/computer-programming/programming)}
-* Git, version control systems {[GitHub](https://github.com/)}
-* DOM {[W3schools](https://www.w3schools.com/js/js_htmldom.asp)}
+* Databases, RDMS, SQL ([Codecademy](https://www.codecademy.com/learn/learn-sql))
+* DOM ([W3schools](https://www.w3schools.com/js/js_htmldom.asp))
+* Git, version control systems ([GitHub](https://github.com/))
+* Bootstrap ([Codecademy](https://www.codecademy.com/learn/learn-bootstrap))
 
-## **Let me tell you about:**
-* HTML, CSS, JavaSript basics
-* Theory of Software testing (QA): testing fundamentals, types, techniques, documentation, test management, SDLC, STLC, Agile Methodology
+* Web pages: 
+HTML, CSS ([KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css), [FreeCodeCamp](https://www.freecodecamp.org/learn/))
+Bootstrap ([Codecademy](https://www.codecademy.com/learn/learn-bootstrap))
+* JavaScript: 
+ES6 ([Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), [FreeCodeCamp](https://www.freecodecamp.org/learn/))
+DOM ([W3schools](https://www.w3schools.com/js/js_htmldom.asp))
+* Software testing (QA): 
+testing fundamentals, types, techniques, documentation, test management, STLC, Agile Methodology ([Guru99](https://www.guru99.com/software-testing.html)) 
+* Databases: 
+RDMS, SQL ([Codecademy](https://www.codecademy.com/learn/learn-sql))
+* Other: 
+Git, GitHub ([GitHub](https://github.com/))
 
 ## **What I am planning to learn:**
-* JAVA
+
+* Learn Java ([Codecademy](https://www.codecademy.com/learn/learn-java))
 * Automatic testing, Selenium
+* Learn Jquery ([Codecademy](https://www.codecademy.com/learn/learn-jquery))
+* Building Interactive JavaScript Websites ([Codecademy](https://www.codecademy.com/learn/build-interactive-websites))
+* Learn Responsive Design ([Codecademy](https://www.codecademy.com/learn/learn-responsive-design)), Learn Color Design ([Codecademy](https://www.codecademy.com/learn/learn-color-design))
+* Learn JavaScript Unit Testing ([Codecademy](https://www.codecademy.com/learn/learn-javascript-unit-testing)), Learn Testing for Web Development ([Codecademy](https://www.codecademy.com/learn/learn-testing-for-web-development))
 * HTTP
 * Object oriented programming vs functional programming. Programming languages examples. 
-* Databases, RDMS, SQL 
-* Jquery
 * Subversion
 
 ![It's me in Norway](https://github.com/vikontrimaite/vikontrimaite/blob/gh-pages/IMG_20191230_105907.jpg?raw=true)
