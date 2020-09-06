@@ -9,17 +9,12 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 
 ## **This month I'm learning:**
 * Web pages: 
-HTML, CSS ([KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css), [FreeCodeCamp](https://www.freecodecamp.org/learn/))
-Bootstrap ([Codecademy](https://www.codecademy.com/learn/learn-bootstrap))
+HTML, CSS ([KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css), [FreeCodeCamp](https://www.freecodecamp.org/learn/)), Bootstrap ([Codecademy](https://www.codecademy.com/learn/learn-bootstrap))
 * JavaScript: 
-ES6 ([Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), [FreeCodeCamp](https://www.freecodecamp.org/learn/))
-DOM ([W3schools](https://www.w3schools.com/js/js_htmldom.asp))
-* Software testing (QA): 
-testing fundamentals, types, techniques, documentation, test management, STLC, Agile Methodology ([Guru99](https://www.guru99.com/software-testing.html)) 
-* Databases: 
-RDMS, SQL ([Codecademy](https://www.codecademy.com/learn/learn-sql))
-* Other: 
-Git, GitHub ([GitHub](https://github.com/))
+ES6 ([Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), [FreeCodeCamp](https://www.freecodecamp.org/learn/)), DOM ([W3schools](https://www.w3schools.com/js/js_htmldom.asp))
+* Software testing (QA): testing fundamentals, types, techniques, documentation, test management, STLC, Agile Methodology ([Guru99](https://www.guru99.com/software-testing.html)) 
+* Databases: RDMS, SQL ([Codecademy](https://www.codecademy.com/learn/learn-sql))
+* Other: Git, GitHub ([GitHub](https://github.com/))
 
 ## **What I am planning to learn:**
 
