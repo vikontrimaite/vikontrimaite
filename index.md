@@ -1,31 +1,20 @@
 # **About me:**
-Since childhood I were helping people "with computers": helped friends to clean their computers and make more space there, fixing little issues, also, installing The Sims 2 game for others and making money this way.
+Since childhood I have been helping people with computers': helped friends to optimize their computers, fixing little issues, also, installing The Sims 2 game for others.
 
-In the last five years I was working with people, mostly with children, and I have finished my Bachelor's degree in Social Education. Nevertheless, I am seeking for new career opportunities and internships in IT industry, especially into Software testing (QA). 
+In the last five years I was working with people, mostly with children, and I have finished my Bachelor's degree in Social Education. Nevertheless, I am seeking for new career opportunities and internships in the IT industry, especially into Software testing / Quality Assurance (QA). 
 
-I would love to work in IT industry because I see it as a very perspective and interesting sphere. I have skills that are needed: responsibility, attention to details, good time management and organization skills, communication skills, logical thinking, constant personal growth.
+I would love to work in the IT industry because I see it as a very perspective and interesting sphere. I have skills that are needed: responsibility, attention to details, good time management and organization skills, communication skills, logical thinking, constant personal growth.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 
-## **This month I'm learning:**
-* Web pages: 
-HTML, CSS ([KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css), [FreeCodeCamp](https://www.freecodecamp.org/learn/)), Bootstrap ([Codecademy](https://www.codecademy.com/learn/learn-bootstrap))
-* JavaScript (ES6): ([Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), [Eloquent JavaScript](https://eloquentjavascript.net/), [FreeCodeCamp](https://www.freecodecamp.org/learn/)), DOM ([W3schools](https://www.w3schools.com/js/js_htmldom.asp))
-* Software testing (QA): testing fundamentals, types, techniques, documentation, test management, STLC, Agile Methodology ([Guru99](https://www.guru99.com/software-testing.html)) 
-* Databases: RDMS, SQL ([Codecademy](https://www.codecademy.com/learn/learn-sql))
-* Other: Git, GitHub ([GitHub](https://github.com/))
-
-## **What I am planning to learn:**
-
-* Learn Java ([Codecademy](https://www.codecademy.com/learn/learn-java))
-* Automatic testing, Selenium
-* Learn Jquery ([Codecademy](https://www.codecademy.com/learn/learn-jquery))
-* Building Interactive JavaScript Websites ([Codecademy](https://www.codecademy.com/learn/build-interactive-websites))
-* Learn Responsive Design ([Codecademy](https://www.codecademy.com/learn/learn-responsive-design)), Learn Color Design ([Codecademy](https://www.codecademy.com/learn/learn-color-design))
-* Learn JavaScript Unit Testing ([Codecademy](https://www.codecademy.com/learn/learn-javascript-unit-testing)), Learn Testing for Web Development ([Codecademy](https://www.codecademy.com/learn/learn-testing-for-web-development))
-* HTTP
-* Object oriented programming vs functional programming. Programming languages examples. 
-* Subversion
+## **My skills and / or what I am learning:**
+* HTML, CSS
+* Software testing (QA): testing fundamentals, types, techniques, documentation, test management, SDLC, STLC, Agile Methodology
+* Automation testing: Selenium, Cucumber
+* Databases: RDMS, SQL (MySQL and Oracle)
+* JavaScript (ES6)
+* Basics of Ruby
+* Other: Git, GitHub
 
 ![It's me in Norway](https://github.com/vikontrimaite/vikontrimaite/blob/gh-pages/IMG_20191230_105907.jpg?raw=true)
 
