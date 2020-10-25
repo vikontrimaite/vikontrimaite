@@ -13,7 +13,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 * Automation testing: Selenium, Cucumber
 * Databases: RDMS, SQL (MySQL and Oracle)
 * JavaScript (ES6)
-* Basics of Ruby
+* Basics of Java
 * Other: Git, GitHub
 
 ![It's me in Norway](https://github.com/vikontrimaite/vikontrimaite/blob/gh-pages/IMG_20191230_105907.jpg?raw=true)
