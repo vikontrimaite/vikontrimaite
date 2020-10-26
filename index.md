@@ -16,6 +16,8 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 * Basics of Java
 * Other: Git, GitHub
 
+* My [CodeCademy profile](https://www.codecademy.com/profiles/vikontrimaite)
+
 ![It's me in Norway](https://github.com/vikontrimaite/vikontrimaite/blob/gh-pages/IMG_20191230_105907.jpg?raw=true)
 
 #### **Also, I am interested in:**
