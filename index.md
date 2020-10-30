@@ -12,8 +12,8 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 * Software testing (QA): testing fundamentals, types, techniques, documentation, test management, SDLC, STLC, Agile Methodology
 * Automation testing: Selenium, Cucumber
 * Databases: RDMS, SQL (MySQL and Oracle)
+* Java
 * JavaScript (ES6)
-* Basics of Java
 * Other: Git, GitHub
 
 * My [CodeCademy profile](https://www.codecademy.com/profiles/vikontrimaite)
