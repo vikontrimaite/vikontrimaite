@@ -16,7 +16,8 @@ At the moment I am seeking for new career opportunities in IT industry and my ca
 - happy to work solo or in a team 
 - curious, learning and questioning all the time, constant personal growth
 
-Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
+Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/)
+My [Codecademy profile](https://www.codecademy.com/profiles/vikontrimaite)
 
 # **My skills:**
 * Front-end development: HTML, CSS, Javascript
