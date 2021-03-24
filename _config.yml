@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 
+github:
+  is_user_page: true
 
 title: [Vilija Kontrimaitė]
 description: [It's all about me]
