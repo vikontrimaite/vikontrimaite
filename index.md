@@ -1,24 +1,29 @@
 # **About me:**
-Since childhood I have been helping people with computers': helped friends to optimize their computers, fixing little issues, also, installing The Sims 2 game for others.
 
-In the last five years I was working with people, mostly with children, and I have finished my Bachelor's degree in Social Education. Nevertheless, I am seeking for new career opportunities and internships in the IT industry, especially into Software testing / Quality Assurance (QA). 
+Since childhood I were helping people "with computers": helped friends to clean their computers and make more space there, fixing little issues, also, installing The Sims 2 game for others and even making money this way.
 
-I would love to work in the IT industry because I see it as a very perspective and interesting sphere. I have skills that are needed: responsibility, attention to details, good time management and organization skills, communication skills, logical thinking, constant personal growth.
+In the last five years I was working with people, mostly with children, and I have finished my Bachelor's degree in Social Education. I have gained a lot of great experience working with different people, underastanding that everyone has a different approach to the world, so it is a must to give a unique help for each person. I believe that this principle also works in the IT wolrd where it is needed to have different solutions for different problems.
+
+At the moment I am seeking for new career opportunities in IT industry and my career goal is to become Qaulity Assurance Specialist (QA) - Tester. After research I have decided that testing is the best choice for me because I have skills and characteristics that are needed in this field: 
+- attention to details 
+- love for anaylizing 
+- love when things are in an order and explicit
+- logical thinking
+- responsible, finishing the task from the beggining to the end
+- good time management
+- organization skills
+- communication skills
+- happy to work solo or in a team 
+- curious, learning and questioning all the time, constant personal growth
 
 Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 
-## **My skills and / or what I am learning:**
-* HTML, CSS
-* Software testing (QA): testing fundamentals, types, techniques, documentation, test management, SDLC, STLC, Agile Methodology
-* Automation testing: Selenium, Cucumber
-* Databases: RDMS, SQL (MySQL and Oracle)
-* Java
-* JavaScript (ES6)
-* Other: Git, GitHub
-
-* My [CodeCademy profile](https://www.codecademy.com/profiles/vikontrimaite)
-
-![It's me in Norway](https://github.com/vikontrimaite/vikontrimaite/blob/gh-pages/IMG_20191230_105907.jpg?raw=true)
+# **My skills:**
+* Front-end development: HTML, CSS, Javascript
+* Back-end development: Java, Php
+* Databases: Sql, RDBMS
+* Software testing methodology, concepts, techniques, tools, SDLC, STLC, Agile
+* basics of Selenium and Cucumber
 
 #### **Also, I am interested in:**
 * Photography, I have my personal [blog](https://pasivaiksciojimai.lt/)
@@ -30,3 +35,4 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 * Exploring
 * Cats
 * Reading
+* Yoga
