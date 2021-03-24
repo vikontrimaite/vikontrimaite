@@ -23,7 +23,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vikontrimaite/).
 * Back-end development: Java, Php
 * Databases: Sql, RDBMS
 * Software testing methodology, concepts, techniques, tools, SDLC, STLC, Agile
-* basics of Selenium and Cucumber
+* Basics of Selenium and Cucumber
 
 ## **Also, I am interested in:**
 * Photography, I have my personal [blog](https://pasivaiksciojimai.lt/)
