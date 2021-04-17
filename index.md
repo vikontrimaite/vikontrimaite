@@ -21,9 +21,9 @@ My [Codecademy profile](https://www.codecademy.com/profiles/vikontrimaite)
 
 # **My skills:**
 * Front-end development: HTML, CSS, Javascript
-* Back-end development: Java, Php
-* Databases: Sql, RDBMS
-* Software testing methodology, concepts, techniques, tools, SDLC, STLC, Agile
+* Back-end development: Java, PHP, Laravel
+* Databases: SQL, RDBMS
+* Software testing methodology, concepts, techniques, tools, SDLC, STLC, TDD, BDD, Agile
 * Basics of Selenium and Cucumber
 
 ## **Also, I am interested in:**
